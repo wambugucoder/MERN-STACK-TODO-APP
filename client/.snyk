@@ -194,3 +194,5 @@ patch:
         patched: '2020-09-12T08:38:48.626Z'
     - react-scripts > jest > jest-cli > @jest/core > @jest/reporters > jest-runtime > jest-config > @jest/test-sequencer > jest-runner > jest-jasmine2 > @jest/environment > @jest/transform > @babel/core > lodash:
         patched: '2020-09-12T08:38:48.626Z'
+    - snyk > snyk-docker-plugin > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2020-09-12T08:47:02.955Z'
