@@ -16,7 +16,10 @@
     "react-scripts": "3.4.3",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
+
+
     "snyk": "^1.408.0"
+
   },
   "scripts": {
     "start": "react-scripts start",
